@@ -8,12 +8,9 @@ I focus on building practical AI systems around **Machine Learning, Deep Learnin
 
 My goal is to become an **AI Engineer / Machine Learning Engineer** able to design, build and deploy intelligent applications that solve real-world problems.
 
----
-
 ## I am open to:
 
-* Alternance / apprenticeship in **Machine Learning, AI Engineering or Data Science**
-* Junior **AI Engineer / ML Engineer** opportunities
+* Junior **AI Engineer / ML Engineer** opportunities in **Machine Learning, AI Engineering or Data Science**
 * Hackathons and AI competitions
 * Research-oriented AI projects
 * Computer Vision and LLM-based applications
@@ -28,8 +25,6 @@ My goal is to become an **AI Engineer / Machine Learning Engineer** able to desi
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge\&logo=canva\&logoColor=white)](https://tuanwh.my.canva.site/tu-anh-le)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tuanhle0510/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:letuanhcp59@gmail.com)
-
----
 
 ## Core Skills
 
