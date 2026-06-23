@@ -66,13 +66,15 @@ Object detection • Image classification • OCR pipelines • Real-time infere
 ![AI Agents](https://img.shields.io/badge/AI_AGENTS-4B0082?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Luxury AI](https://img.shields.io/badge/LUXURY_AI-B8860B?style=for-the-badge)
+![Retail AI](https://img.shields.io/badge/RETAIL_AI-8A2BE2?style=for-the-badge)
+![Fashion Tech](https://img.shields.io/badge/FASHION_TECH-222222?style=for-the-badge)
 
 I build AI applications around LLMs, retrieval systems and agentic workflows, with a focus on automation and practical user workflows.
 
-**Focus areas:**
-AI agents • Agentic workflows • Tool calling • RAG pipelines • Memory systems • Embeddings • Prompt engineering • Information retrieval • AI assistants
-
+**Focus areas:**  
+AI agents • Agentic workflows • Tool calling • RAG pipelines • Memory systems • Embeddings • Prompt engineering • Information retrieval • AI assistants • Luxury AI • Retail AI • Fashion tech • Customer experience
 ---
 
 ### AI Application Engineering
