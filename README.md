@@ -8,15 +8,18 @@ I focus on building practical AI systems around **Machine Learning, Deep Learnin
 
 My goal is to become an **AI Engineer / Machine Learning Engineer** able to design, build and deploy intelligent applications that solve real-world problems.
 
+---
+
 ## I am open to:
 
-* Junior **AI Engineer / ML Engineer** opportunities in **Machine Learning, AI Engineering or Data Science**
+* **Alternance / apprenticeship** in AI Engineering, Machine Learning or Data Science
+* **Internship opportunities** in Computer Vision, LLMs, RAG or AI Agents
+* Junior **AI Engineer / Machine Learning Engineer** opportunities
 * Hackathons and AI competitions
 * Research-oriented AI projects
-* Computer Vision and LLM-based applications
-* Agentic AI / AI assistant projects
-* Open-source collaboration
-* Applied AI projects with real users and real data
+* Open-source collaboration around applied AI systems
+* Projects involving real users, real data and practical AI applications
+* Applied AI projects in **luxury, retail and fashion tech**, especially around personalization, recommendation, computer vision and customer experience
 
 ---
 
@@ -25,6 +28,8 @@ My goal is to become an **AI Engineer / Machine Learning Engineer** able to desi
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge\&logo=canva\&logoColor=white)](https://tuanwh.my.canva.site/tu-anh-le)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tuanhle0510/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:letuanhcp59@gmail.com)
+
+---
 
 ## Core Skills
 
@@ -58,6 +63,7 @@ I work on vision-based AI systems for real-world use cases, especially detection
 Object detection • Image classification • OCR pipelines • Real-time inference • Model optimization • Industrial AI applications
 
 ---
+
 ### Generative AI, LLMs & Agentic Systems
 
 ![LLM Engineering](https://img.shields.io/badge/LLM_ENGINEERING-111111?style=for-the-badge)
@@ -65,22 +71,24 @@ Object detection • Image classification • OCR pipelines • Real-time infere
 ![AI Agents](https://img.shields.io/badge/AI_AGENTS-4B0082?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Luxury AI](https://img.shields.io/badge/LUXURY_AI-B8860B?style=for-the-badge)
-![Retail AI](https://img.shields.io/badge/RETAIL_AI-8A2BE2?style=for-the-badge)
-![Fashion Tech](https://img.shields.io/badge/FASHION_TECH-222222?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Tool Calling](https://img.shields.io/badge/TOOL_CALLING-222222?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/WORKFLOW_AUTOMATION-6A0DAD?style=for-the-badge)
+![AI Assistants](https://img.shields.io/badge/AI_ASSISTANTS-5A29E4?style=for-the-badge)
 
 I build AI applications around LLMs, retrieval systems and agentic workflows, with a focus on automation and practical user workflows.
 
-**Focus areas:**  
-AI agents • Agentic workflows • Tool calling • RAG pipelines • Memory systems • Embeddings • Prompt engineering • Information retrieval • AI assistants • Luxury AI • Retail AI • Fashion tech • Customer experience
+**Focus areas:**
+AI agents • Agentic workflows • Tool calling • RAG pipelines • Memory systems • Embeddings • Prompt engineering • Information retrieval • AI assistants • Workflow automation
+
 ---
+
 ### AI Application Engineering
 
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GCP](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
@@ -90,17 +98,21 @@ I like turning AI models into usable applications through APIs, interfaces, auto
 AI APIs • Streamlit applications • Model deployment • Docker • Cloud deployment • Automation • MLOps basics • Production-oriented prototypes
 
 ---
+
 ## What I'm building
 
 I am currently building a stronger profile around **Machine Learning, Computer Vision, LLM applications and AI Agents**.
 
 My work focuses on turning AI models into practical systems:
 
-- Building machine learning pipelines from data preparation to model evaluation
-- Developing computer vision systems for detection, recognition and real-time inference
-- Exploring LLM-based applications with RAG, tool calling and agentic workflows
-- Creating AI prototypes with Python, FastAPI, Streamlit and Docker
-- Learning how to deploy AI applications in cloud-based environments
+* Building machine learning pipelines from data preparation to model evaluation
+* Developing computer vision systems for detection, recognition and real-time inference
+* Exploring LLM-based applications with RAG, tool calling and agentic workflows
+* Creating AI prototypes with Python, FastAPI, Streamlit and Docker
+* Learning how to deploy AI applications in cloud-based environments
+
+---
+
 ## Education
 
 ### Université de Rouen Normandie
