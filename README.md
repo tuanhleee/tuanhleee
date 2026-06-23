@@ -1,7 +1,5 @@
 # Salut, I'm Tu Anh LE 🤓
 
-> Or you can call me Tu Anh
-
 I'm a **Master's student in Data Science** at **Université de Rouen Normandie**, France.
 
 I focus on building practical AI systems around **Machine Learning, Deep Learning, Computer Vision, LLMs and Agentic AI**.
