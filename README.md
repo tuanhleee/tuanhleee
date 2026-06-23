@@ -58,7 +58,6 @@ I work on vision-based AI systems for real-world use cases, especially detection
 Object detection • Image classification • OCR pipelines • Real-time inference • Model optimization • Industrial AI applications
 
 ---
-
 ### Generative AI, LLMs & Agentic Systems
 
 ![LLM Engineering](https://img.shields.io/badge/LLM_ENGINEERING-111111?style=for-the-badge)
@@ -76,7 +75,6 @@ I build AI applications around LLMs, retrieval systems and agentic workflows, wi
 **Focus areas:**  
 AI agents • Agentic workflows • Tool calling • RAG pipelines • Memory systems • Embeddings • Prompt engineering • Information retrieval • AI assistants • Luxury AI • Retail AI • Fashion tech • Customer experience
 ---
-
 ### AI Application Engineering
 
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
